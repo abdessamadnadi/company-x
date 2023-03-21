@@ -142,14 +142,14 @@
     
     }
     
-    .a{ 
+    .m{ 
         color: rgb(15, 108, 214);
         font-size:105px;
       margin-bottom: 5px;
       text-shadow:2px 2px 4px #000000;
       line-height: 120px;
     }
-    .b{
+    .z{
         color: white;
         font-size: 50px;
     margin-top: 5px;
@@ -157,7 +157,7 @@
         line-height: 50px;
         text-shadow: 2px 2px 4px #000000;;
     }
-    .c{ 
+    .y{ 
         color: white;
         font-size: 70px;
         margin-top: 3px;
